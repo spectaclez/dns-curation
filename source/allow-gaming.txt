@@ -1,3 +1,4 @@
+# Epic Games
 account-public-service-prod03.ol.epicgames.com
 launcherwaitingroom-public-service-prod06.ol.epicgames.com
 launcher-public-service-prod06.ol.epicgames.com
@@ -21,12 +22,50 @@ download.epicgames.com
 download2.epicgames.com
 download3.epicgames.com
 download4.epicgames.com
-static-assets-prod.epicgames.com/static/
+static-assets-prod.epicgames.com
 store-site-backend-static.ak.epicgames.com
-store-content.ak.epicgames.com/api
+store-content.ak.epicgames.com
 library-service.live.use1a.on.epicgames.com
 datastorage-public-service-liveegs.live.use1a.on.epicgames.com
 fastly-download.epicgames.com
 store.epicgames.com
 launcher.store.epicgames.com
 js.hcaptcha.com
+
+# Blizzard
+battle.net
+blizzard.com
+bnet2.battle.net
+d3battlenet.blizzard.com
+
+# Steam Essential Domains
+steampowered.com
+steamcommunity.com
+steamgames.com
+steamcontent.com
+steamusercontent.com
+steamstatic.com
+steamserver.net
+
+# Optional / Broad Valve-related domains (if you’d like extra coverage)
+steam-chat.com
+steamcontent.com
+steamgames.net
+steampoweredgames.com
+steamusers.com
+steamusers.net
+valve.net
+valvecorporation.com
+
+# EA Core Domains
+ea.com
+tnt-ea.com
+easports.com
+eamobile.com
+swtor.com
+
+# Common CDN & Platform Domains (watch logs to adapt)
+akamaihd.net
+*.awsglobalaccelerator.com
+*.us-east-1.elb.amazonaws.com
+*.lithium.com
