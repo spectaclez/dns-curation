@@ -63,9 +63,3 @@ tnt-ea.com
 easports.com
 eamobile.com
 swtor.com
-
-# Common CDN & Platform Domains (watch logs to adapt)
-akamaihd.net
-*.awsglobalaccelerator.com
-*.us-east-1.elb.amazonaws.com
-*.lithium.com
