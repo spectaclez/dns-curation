@@ -1,7 +1,7 @@
 # =========================================================
 # Extremism / Harmful Ideology DNS Blocklist
 # =========================================================
-# Maintainer: [Your Name or Org]
+# Maintainer: spectaclez
 # Source: Open-source research, journalism, and threat intel
 # 
 # Purpose:
@@ -97,3 +97,16 @@ bloodandhonourworldwide.co
 revolutionmuslim.com
 whitepower.org
 rahowa.org
+
+
+# =========================================================
+# Far-Left Extremism / Anarchist / Eco-Terror
+# =========================================================
+itsgoingdown.org
+anarchistnews.org
+earthliberationfront.com
+animalliberationfront.com
+deepgreenresistance.org
+shiningpath.org
+farc-ep.co
+pkkonline.com
