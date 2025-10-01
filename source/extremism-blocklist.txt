@@ -1,0 +1,67 @@
+# =========================================================
+# Extremism / Harmful Ideology DNS Blocklist
+# =========================================================
+# Maintainer: [Your Name or Org]
+# Source: Open-source research, journalism, and threat intel
+# 
+# Purpose:
+#   This blocklist is designed to protect home, school, and 
+#   community networks from exposure to extremist propaganda, 
+#   hate groups, and radicalization hubs. It includes known 
+#   extremist forums, unmoderated imageboards, hate sites, 
+#   and alt-tech platforms frequently used to spread harmful 
+#   ideologies and disinformation.
+#
+# Usage:
+#   - Compatible with AdGuard Home, Pi-hole, Unbound, pfSense
+#   - Add as an upstream blocklist (raw TXT format)
+#   - Regularly update to keep current with domain changes
+#
+# Notes:
+#   - Some domains here also host general content. Blocking 
+#     them is a deliberate choice for safety and prevention.
+#   - This list is not exhaustive. New extremist platforms 
+#     and mirrors appear frequently.
+#   - Intended for educational, protective, and security use.
+#
+# Last Updated: 2025-10-01
+# =========================================================
+
+
+# Major Imageboards / Alt-Imageboards
+4chan.org
+8kun.top
+8chan.moe
+endchan.net
+r9k.org
+kiwifarms.net
+
+# White Supremacist / Neo-Nazi
+stormfront.org
+dailystormer.su
+ironmarch.org
+nationalvanguard.org
+therightstuff.biz
+counter-currents.com
+
+# Alt-Tech “Free Speech” Platforms (extremism-friendly)
+gab.com
+truthsocial.com
+bitchute.com
+odysee.com
+parler.com
+gettr.com
+poal.co
+voat.co  # (defunct but mirrors exist)
+
+# Conspiracy / Disinformation Hubs
+infowars.com
+naturalnews.com
+thegatewaypundit.com
+vigilantcitizen.com
+
+# Extremist Community Spin-offs
+thedonald.win
+patriots.win
+americafirst.live
+americafirstpolicy.com
