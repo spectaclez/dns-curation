@@ -17,12 +17,13 @@
 #
 # Notes:
 #   - Some domains here also host general content. Blocking 
-#     them is a deliberate choice for safety and prevention.
+#     them is a deliberate choice for safety and prevention (especially 
+#     important for the stated goal of protecting children and teens).
 #   - This list is not exhaustive. New extremist platforms 
 #     and mirrors appear frequently.
 #   - Intended for educational, protective, and security use.
 #
-# Last Updated: 2025-10-01
+# Last Updated: 2025-10-01 (Updated with new additions for youth protection)
 # =========================================================
 
 
@@ -35,6 +36,9 @@
 ||endchan.net^
 ||r9k.org^
 ||kiwifarms.net^
+||coomer.party^
+||lainchan.org^
+||anonfile.com^
 
 
 # =========================================================
@@ -46,6 +50,7 @@
 ||nationalvanguard.org^
 ||therightstuff.biz^
 ||counter-currents.com^
+||vanguardnewsnetwork.com^
 
 
 # =========================================================
@@ -59,6 +64,8 @@
 ||gettr.com^
 ||poal.co^
 ||voat.co^
+||dlive.tv^
+||rumble.com^
 
 
 # =========================================================
@@ -68,6 +75,8 @@
 ||naturalnews.com^
 ||thegatewaypundit.com^
 ||vigilantcitizen.com^
+||zerohedge.com^
+||worldtruth.tv^
 
 
 # =========================================================
