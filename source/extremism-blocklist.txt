@@ -7,10 +7,8 @@
 # Purpose:
 #   This blocklist is designed to protect home, school, and 
 #   community networks from exposure to extremist propaganda, 
-#   hate groups, and radicalization hubs. It includes known 
-#   extremist forums, unmoderated imageboards, hate sites, 
-#   and alt-tech platforms frequently used to spread harmful 
-#   ideologies and disinformation.
+#   hate groups, violent radicalization, and religious or 
+#   political ideologies that promote harm.
 #
 # Usage:
 #   - Compatible with AdGuard Home, Pi-hole, Unbound, pfSense
@@ -28,7 +26,9 @@
 # =========================================================
 
 
+# =========================================================
 # Major Imageboards / Alt-Imageboards
+# =========================================================
 4chan.org
 8kun.top
 8chan.moe
@@ -36,7 +36,10 @@ endchan.net
 r9k.org
 kiwifarms.net
 
+
+# =========================================================
 # White Supremacist / Neo-Nazi
+# =========================================================
 stormfront.org
 dailystormer.su
 ironmarch.org
@@ -44,7 +47,10 @@ nationalvanguard.org
 therightstuff.biz
 counter-currents.com
 
+
+# =========================================================
 # Alt-Tech “Free Speech” Platforms (extremism-friendly)
+# =========================================================
 gab.com
 truthsocial.com
 bitchute.com
@@ -52,16 +58,42 @@ odysee.com
 parler.com
 gettr.com
 poal.co
-voat.co  # (defunct but mirrors exist)
+voat.co
 
+
+# =========================================================
 # Conspiracy / Disinformation Hubs
+# =========================================================
 infowars.com
 naturalnews.com
 thegatewaypundit.com
 vigilantcitizen.com
 
+
+# =========================================================
 # Extremist Community Spin-offs
+# =========================================================
 thedonald.win
 patriots.win
 americafirst.live
 americafirstpolicy.com
+
+
+# =========================================================
+# Christian Nationalism / Religious Extremism
+# =========================================================
+theamericanview.com
+christianidentitychurch.org
+anglinchurch.org
+trueseekersministry.com
+vachristian.org
+
+
+# =========================================================
+# Hate & Violence Advocacy
+# =========================================================
+redwatch.org
+bloodandhonourworldwide.co
+revolutionmuslim.com
+whitepower.org
+rahowa.org
