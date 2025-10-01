@@ -3,7 +3,7 @@
 # =========================================================
 # Maintainer: spectaclez
 # Source: Open-source research, journalism, and threat intel
-# 
+#
 # Purpose:
 #   This blocklist is designed to protect home, school, and 
 #   community networks from exposure to extremist propaganda, 
@@ -11,7 +11,7 @@
 #   political ideologies that promote harm.
 #
 # Usage:
-#   - Compatible with AdGuard Home, Pi-hole, Unbound, pfSense
+#   - Compatible with AdGuard Home for now
 #   - Add as an upstream blocklist (raw TXT format)
 #   - Regularly update to keep current with domain changes
 #
@@ -29,84 +29,84 @@
 # =========================================================
 # Major Imageboards / Alt-Imageboards
 # =========================================================
-4chan.org
-8kun.top
-8chan.moe
-endchan.net
-r9k.org
-kiwifarms.net
+||4chan.org^
+||8kun.top^
+||8chan.moe^
+||endchan.net^
+||r9k.org^
+||kiwifarms.net^
 
 
 # =========================================================
 # White Supremacist / Neo-Nazi
 # =========================================================
-stormfront.org
-dailystormer.su
-ironmarch.org
-nationalvanguard.org
-therightstuff.biz
-counter-currents.com
+||stormfront.org^
+||dailystormer.su^
+||ironmarch.org^
+||nationalvanguard.org^
+||therightstuff.biz^
+||counter-currents.com^
 
 
 # =========================================================
 # Alt-Tech “Free Speech” Platforms (extremism-friendly)
 # =========================================================
-gab.com
-truthsocial.com
-bitchute.com
-odysee.com
-parler.com
-gettr.com
-poal.co
-voat.co
+||gab.com^
+||truthsocial.com^
+||bitchute.com^
+||odysee.com^
+||parler.com^
+||gettr.com^
+||poal.co^
+||voat.co^
 
 
 # =========================================================
 # Conspiracy / Disinformation Hubs
 # =========================================================
-infowars.com
-naturalnews.com
-thegatewaypundit.com
-vigilantcitizen.com
+||infowars.com^
+||naturalnews.com^
+||thegatewaypundit.com^
+||vigilantcitizen.com^
 
 
 # =========================================================
 # Extremist Community Spin-offs
 # =========================================================
-thedonald.win
-patriots.win
-americafirst.live
-americafirstpolicy.com
+||thedonald.win^
+||patriots.win^
+||americafirst.live^
+||americafirstpolicy.com^
 
 
 # =========================================================
 # Christian Nationalism / Religious Extremism
 # =========================================================
-theamericanview.com
-christianidentitychurch.org
-anglinchurch.org
-trueseekersministry.com
-vachristian.org
+||theamericanview.com^
+||christianidentitychurch.org^
+||anglinchurch.org^
+||trueseekersministry.com^
+||vachristian.org^
 
 
 # =========================================================
 # Hate & Violence Advocacy
 # =========================================================
-redwatch.org
-bloodandhonourworldwide.co
-revolutionmuslim.com
-whitepower.org
-rahowa.org
+||redwatch.org^
+||bloodandhonourworldwide.co^
+||revolutionmuslim.com^
+||whitepower.org^
+||rahowa.org^
 
 
 # =========================================================
 # Far-Left Extremism / Anarchist / Eco-Terror
 # =========================================================
-itsgoingdown.org
-anarchistnews.org
-earthliberationfront.com
-animalliberationfront.com
-deepgreenresistance.org
-shiningpath.org
-farc-ep.co
-pkkonline.com
+||itsgoingdown.org^
+||anarchistnews.org^
+||earthliberationfront.com^
+||animalliberationfront.com^
+||deepgreenresistance.org^
+||shiningpath.org^
+||farc-ep.co^
+||pkkonline.com^
