@@ -1,65 +1,127 @@
-# Epic Games
-account-public-service-prod03.ol.epicgames.com
-launcherwaitingroom-public-service-prod06.ol.epicgames.com
-launcher-public-service-prod06.ol.epicgames.com
-www.epicgames.com
-launcher-website-prod07.ol.epicgames.com
-tracking.epicgames.com
-accounts.launcher-website-prod07.ol.epicgames.com
-accounts.epicgames.com
-cdn1.unrealengine.com
-cdn2.unrealengine.com
-datarouter.ol.epicgames.com
-entitlement-public-service-prod08.ol.epicgames.com
-orderprocessor-public-service-ecomprod01.ol.epicgames.com
-catalog-public-service-prod06.ol.epicgames.com
-friends-public-service-prod06.ol.epicgames.com
-lightswitch-public-service-prod06.ol.epicgames.com
-accountportal-website-prod07.ol.epicgames.com
-ut-public-service-prod10.ol.epicgames.com
-epicgames-download1.akamaized.net
-download.epicgames.com
-download2.epicgames.com
-download3.epicgames.com
-download4.epicgames.com
-static-assets-prod.epicgames.com
-store-site-backend-static.ak.epicgames.com
-store-content.ak.epicgames.com
-library-service.live.use1a.on.epicgames.com
-datastorage-public-service-liveegs.live.use1a.on.epicgames.com
-fastly-download.epicgames.com
-store.epicgames.com
-launcher.store.epicgames.com
-js.hcaptcha.com
+! ============================================
+! GAMING ALLOWLIST – Telemetry-Free
+! Optimized for AdGuard Home
+! Covers Epic Games, Blizzard, Steam, EA, and
+! World of Warcraft addon managers (WowUp,
+! CurseForge/Overwolf, Wago.io, GitHub, etc.)
+! ============================================
+! Updated: 2025-10-01
+! ============================================
 
-# Blizzard
-battle.net
-blizzard.com
-bnet2.battle.net
-d3battlenet.blizzard.com
+! ========================
+! Epic Games
+! ========================
+@@||account-public-service-prod03.ol.epicgames.com^
+@@||launcherwaitingroom-public-service-prod06.ol.epicgames.com^
+@@||launcher-public-service-prod06.ol.epicgames.com^
+@@||www.epicgames.com^
+@@||launcher-website-prod07.ol.epicgames.com^
+@@||accounts.launcher-website-prod07.ol.epicgames.com^
+@@||accounts.epicgames.com^
+@@||cdn1.unrealengine.com^
+@@||cdn2.unrealengine.com^
+@@||datarouter.ol.epicgames.com^
+@@||entitlement-public-service-prod08.ol.epicgames.com^
+@@||orderprocessor-public-service-ecomprod01.ol.epicgames.com^
+@@||catalog-public-service-prod06.ol.epicgames.com^
+@@||friends-public-service-prod06.ol.epicgames.com^
+@@||lightswitch-public-service-prod06.ol.epicgames.com^
+@@||accountportal-website-prod07.ol.epicgames.com^
+@@||ut-public-service-prod10.ol.epicgames.com^
+@@||epicgames-download1.akamaized.net^
+@@||download.epicgames.com^
+@@||download2.epicgames.com^
+@@||download3.epicgames.com^
+@@||download4.epicgames.com^
+@@||static-assets-prod.epicgames.com^
+@@||store-site-backend-static.ak.epicgames.com^
+@@||store-content.ak.epicgames.com^
+@@||library-service.live.use1a.on.epicgames.com^
+@@||datastorage-public-service-liveegs.live.use1a.on.epicgames.com^
+@@||fastly-download.epicgames.com^
+@@||store.epicgames.com^
+@@||launcher.store.epicgames.com^
+@@||js.hcaptcha.com^
 
-# Steam Essential Domains
-steampowered.com
-steamcommunity.com
-steamgames.com
-steamcontent.com
-steamusercontent.com
-steamstatic.com
-steamserver.net
+! ========================
+! Blizzard
+! ========================
+@@||battle.net^
+@@||blizzard.com^
+@@||bnet2.battle.net^
+@@||d3battlenet.blizzard.com^
 
-# Optional / Broad Valve-related domains (if you’d like extra coverage)
-steam-chat.com
-steamcontent.com
-steamgames.net
-steampoweredgames.com
-steamusers.com
-steamusers.net
-valve.net
-valvecorporation.com
+! ========================
+! Steam – Essential Domains
+! ========================
+@@||steampowered.com^
+@@||steamcommunity.com^
+@@||steamgames.com^
+@@||steamcontent.com^
+@@||steamusercontent.com^
+@@||steamstatic.com^
+@@||steamserver.net^
+@@||steamcdn-a.akamaihd.net^
 
-# EA Core Domains
-ea.com
-tnt-ea.com
-easports.com
-eamobile.com
-swtor.com
+! ========================
+! Steam – Optional / Broad Valve-related
+! (comment out if not needed)
+! ========================
+@@||steam-chat.com^
+@@||steamgames.net^
+@@||steampoweredgames.com^
+@@||steamusers.com^
+@@||steamusers.net^
+@@||valve.net^
+@@||valvecorporation.com^
+
+! ========================
+! EA Core Domains
+! ========================
+@@||ea.com^
+@@||tnt-ea.com^
+@@||easports.com^
+@@||eamobile.com^
+@@||swtor.com^
+@@||origin.com^
+@@||signin.ea.com^
+
+! ========================
+! WowUp (addon manager)
+! ========================
+@@||wowup.io^
+@@||hub.wowup.io^
+@@||cdn.wowup.io^
+
+! ========================
+! CurseForge / Overwolf (addon source)
+! ========================
+@@||api.curseforge.com^
+@@||curseforge.com^
+@@||api.overwolf.com^
+@@||media.forgecdn.net^
+@@||edge.forgecdn.net^
+
+! ========================
+! GitHub (addon releases & APIs)
+! ========================
+@@||github.com^
+@@||api.github.com^
+@@||raw.githubusercontent.com^
+@@||githubusercontent.com^
+@@||objects.githubusercontent.com^
+
+! ========================
+! Wago.io (WeakAuras & addons)
+! ========================
+@@||wago.io^
+@@||api.wago.io^
+@@||media.wago.io^
+@@||assets.wago.io^
+@@||cdn.wago.io^
+
+! ========================
+! WoWInterface (addon host)
+! ========================
+@@||wowinterface.com^
+@@||cdn.wowinterface.com^
